@@ -2,4 +2,5 @@ body{
   background-image:url("../image/background2.jpg");
   background-repeat: no-repeat;
   background-size: auto;
+  color: white;
 }
