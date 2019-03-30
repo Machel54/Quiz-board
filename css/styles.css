@@ -2,5 +2,9 @@ body{
   background-image:url("../image/background2.jpg");
   background-repeat: no-repeat;
   background-size: auto;
+  background-position: center;
   color: white;
+}
+h1{
+  font-family:sans-serif;
 }
