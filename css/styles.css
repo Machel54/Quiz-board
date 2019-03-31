@@ -3,7 +3,7 @@ body{
   background-repeat: no-repeat;
   background-size: auto;
   background-position: center;
-  color: white;
+  color: black;
 }
 h1{
   font-family:sans-serif;
@@ -24,4 +24,7 @@ button{
 
 button:hover {
   opacity: 1
+}
+.jumbotron{
+  background: none;
 }
